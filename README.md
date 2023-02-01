@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<iframe src="https://giphy.com/embed/ccv6bzv2rNoBMEKZw4" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/happy-illustration-cats-ccv6bzv2rNoBMEKZw4">via GIPHY</a></p>
-
-<img src="https://giphy.com/embed/ccv6bzv2rNoBMEKZw4"/>
+<iframe src="https://giphy.com/embed/xT9DPIBYf0pAviBLzO" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-kitty-motivational-xT9DPIBYf0pAviBLzO">via GIPHY</a></p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bney28&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="BneyImg" />
 
