@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-This are my repositories! 
+<img src="https://media.giphy.com/media/xT9DPIBYf0pAviBLzO/giphy.gif" />
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bney28&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="BneyImg" />
 
