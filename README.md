@@ -1,7 +1,8 @@
 ## Hola! 👋 
 
-<img src="https://media.giphy.com/media/xT9DPIBYf0pAviBLzO/giphy.gif" width="200" height="100" />
+<img src="https://media.giphy.com/media/xT9DPIBYf0pAviBLzO/giphy.gif" width="100" height="200" />
 
+<br/>
 > Soy **Desarrolladora Web Front End Trainee** con experiencia en HTML, CSS y/o SASS, Git, Javascript, React, entre otros.
 Aquí mis stats⬇⬇⬇
 
