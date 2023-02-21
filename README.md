@@ -1,10 +1,13 @@
 ## Hola! 👋 
 
-<img src="https://media.giphy.com/media/xT9DPIBYf0pAviBLzO/giphy.gif" width="100" height="200" />
+<img src="https://media.giphy.com/media/xT9DPIBYf0pAviBLzO/giphy.gif" width="175" height="200" />
 
 <br/>
-> Soy **Desarrolladora Web Front End Trainee** con experiencia en HTML, CSS y/o SASS, Git, Javascript, React, entre otros.
+
+> Soy **Desarrolladora Web Front End Trainee** con experiencia en HTML, CSS y/o SASS, Git, Javascript, React, entre otros.<br/>
 Aquí mis stats⬇⬇⬇
+
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bney28&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="BneyImg" />
 
