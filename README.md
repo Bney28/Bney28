@@ -1,3 +1,5 @@
+<div align="center">
+
 ## Hola! 👋 
 
 <img src="https://media.giphy.com/media/xT9DPIBYf0pAviBLzO/giphy.gif" width="175" />
@@ -14,6 +16,8 @@
 
 ![Bney's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bney28&show_icons=true&theme=cobalt)<br/>
 
+ </div>
+  
 <!--
 **Bney28/Bney28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
