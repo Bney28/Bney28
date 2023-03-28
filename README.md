@@ -12,11 +12,10 @@
 
 <br/>
 
-<!--
+ 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bney28&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="BneyImg" />
 
 ![Bney's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bney28&show_icons=true&theme=cobalt)<br/>
--->
  </div>
   
 <!--
