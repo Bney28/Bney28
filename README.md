@@ -2,20 +2,21 @@
 
 ## Hola! 👋 
 
-<img src="https://media.giphy.com/media/xT9DPIBYf0pAviBLzO/giphy.gif" width="175" />
+<img src="https://media.giphy.com/media/xT9DPIBYf0pAviBLzO/giphy.gif" width="250" />
 
 <br/>
 
-> ⚡ Soy **Desarrolladora Web Front End Trainee** con experiencia :memo: en HTML, CSS y/o SASS, Git, Javascript, React, entre otros.<br/>
+> ⚡ Soy **Desarrolladora Web Front End** con experiencia :memo: en HTML, CSS y/o SASS, Git, Javascript, React, entre otros.<br/>
 > 📫 LinkedIn: [Bney-front-end](https://www.linkedin.com/in/bney-front-end/)
 > > Aquí mis stats ⬇⬇⬇ <br/>
 
 <br/>
 
+<!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bney28&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="BneyImg" />
 
 ![Bney's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bney28&show_icons=true&theme=cobalt)<br/>
-
+-->
  </div>
   
 <!--
